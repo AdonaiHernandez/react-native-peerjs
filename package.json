@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/AdonaiHernandez/react-native-peerjs/issues"
   },
-  "homepage": "https://github.com/AdonaiHernandez/react-native-peerjs#readme"
+  "homepage": "https://github.com/AdonaiHernandez/react-native-peerjs#readme",
+  "dependencies": {
+    "eventemitter3": "^3.1.0",
+    "react-native-webrtc": "^1.69.0"
+  }
 }
